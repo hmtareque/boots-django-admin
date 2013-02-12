@@ -1,0 +1,15 @@
+{
+  "name": "boots-django-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan Tareque",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.22.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
