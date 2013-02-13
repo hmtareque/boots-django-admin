@@ -1,0 +1,23 @@
+{
+  "name": "boots-django-admin",
+  "version": "1.0.0",
+  "description": "Admin Panel by Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmtareque/boots-django-admin.git"
+  },
+  "author": "Hasan Tareque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmtareque/boots-django-admin/issues"
+  },
+  "homepage": "https://github.com/hmtareque/boots-django-admin#readme",
+  "dependencies": {
+    "webpack": "^5.22.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
