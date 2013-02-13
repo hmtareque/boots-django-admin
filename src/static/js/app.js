@@ -16,17 +16,17 @@
   \*******************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.scss */ \"./js/style.scss\");\n\n\nconsole.log('test');\n\n\n\n//# sourceURL=webpack://boots-django-admin/./js/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sass_app_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../sass/app.scss */ \"./sass/app.scss\");\n\n\nconsole.log('test');\n\n\n\n//# sourceURL=webpack://boots-django-admin/./js/app.js?");
 
 /***/ }),
 
-/***/ "./js/style.scss":
+/***/ "./sass/app.scss":
 /*!***********************!*\
-  !*** ./js/style.scss ***!
+  !*** ./sass/app.scss ***!
   \***********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack://boots-django-admin/./js/style.scss?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack://boots-django-admin/./sass/app.scss?");
 
 /***/ })
 
